@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liorosen
-- 👀 I’m interested in fitness
+- 👀 I’m interested in fitness and Biology
 - 🌱 I’m currently learning computer science at Ben Gurion University
 - 📫 How to reach me ...
 
